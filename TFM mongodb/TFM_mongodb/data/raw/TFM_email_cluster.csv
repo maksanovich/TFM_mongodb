@@ -1,0 +1,4 @@
+"server_batch_num","server_type","server_ip","ssh_username","ssh_password","ssh_port"
+,"APP","178.128.16.216","root","169Mabdb",22
+,"APP","146.190.93.109","root","169Mabdb",22
+,"APP","146.190.93.53","root","169Mabdb",22
